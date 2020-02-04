@@ -1,2 +1,2 @@
 * linguist-vendored
-*.ts linguist-vendored=false
+*.ts,.js linguist-vendored=false
