@@ -7,7 +7,7 @@ Para banco de dados é utilizado o [MySQL](https://dev.mysql.com/doc/).
 
 
 Para mais informações a respeito do projeto veja o 
-[PDF](https://github.com/Joalivi/EcommercePW2BD2/blob/master/Trabalho%20Interdisciplinar%20Final%20-%20PWII.pdf) do projeto.
+[PDF](https://github.com/Joalivi/EcommercePW2BD2/blob/master/Trabalho%20Interdisciplinar%20Final%20-%20PWII.pdf).
 
 #Equipe
 
